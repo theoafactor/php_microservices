@@ -35,7 +35,7 @@ if one want to start Lumen from scratch Composer is need as a package manager.
 == Instructions
 . clone the first microservice `https://github.com/theoafactor/books-microservice` follow the readme instructions section.
 . clone the second microservice `https://github.com/theoafactor/authors-microservices` follow the readme instructions section.
-. clone the api-gateway microservice `https://github.com/theoafactor/api-gateway-php` follow the readme instructions section.
+. clone the api-gateway microservice `https://github.com/theoafactor/api-gateway` follow the readme instructions section.
 . clone the laradock repository from `https://github.com/Laradock/laradock.git`
 . now you should have a dir with `Authors`,`Books`,`ApiGateWay`,`laradock` dirs inside
 
